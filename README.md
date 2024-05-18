@@ -1,2 +1,2 @@
-# BookRecommender
-Developed a book recommender system using collaborative filtering and k-means clustering
+# Book Recommender System
+Developed a book recommender system using item collaborative filtering (item based, user based & content based) and k-means clustering
